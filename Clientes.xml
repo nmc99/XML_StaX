@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<clientes>
+    <cliente ID="C001">
+        <nombre>Industrias Sas.</nombre>
+        <telefono>1239673</telefono>
+        <comentarios>
+            Cliente de servicio de atencion inmediata
+        </comentarios>
+    </cliente>
+    <cliente ID="C002">
+        <nombre>Inmobiliaria S.A.</nombre>
+        <telefono>8527419</telefono>
+        <comentarios>
+            Servicios inmobiliarias del distrito
+        </comentarios>
+    </cliente>
+</clientes>
